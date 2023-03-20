@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sillabo/static/css/main.a64e113d.css",
+    "main.js": "/Sillabo/static/js/main.64c953fc.js",
+    "static/js/787.a2b087bf.chunk.js": "/Sillabo/static/js/787.a2b087bf.chunk.js",
+    "static/media/group_dance.gif": "/Sillabo/static/media/group_dance.23bf5e2ad9ac1523aeff.gif",
+    "static/media/confetti.gif": "/Sillabo/static/media/confetti.cf00f9212d2326e25502.gif",
+    "static/media/male_dance.gif": "/Sillabo/static/media/male_dance.b4b6c67196b14645844e.gif",
+    "static/media/female_dance.gif": "/Sillabo/static/media/female_dance.edcdc00e24af0d73212d.gif",
+    "static/media/logo.svg": "/Sillabo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sillabo/index.html",
+    "main.a64e113d.css.map": "/Sillabo/static/css/main.a64e113d.css.map",
+    "main.64c953fc.js.map": "/Sillabo/static/js/main.64c953fc.js.map",
+    "787.a2b087bf.chunk.js.map": "/Sillabo/static/js/787.a2b087bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64e113d.css",
+    "static/js/main.64c953fc.js"
+  ]
+}
